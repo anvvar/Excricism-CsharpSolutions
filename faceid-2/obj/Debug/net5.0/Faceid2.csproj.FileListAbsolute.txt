@@ -1,5 +1,0 @@
-C:\Users\91960\Exercism\csharp\faceid-2\obj\Debug\net5.0\Faceid2.csproj.AssemblyReference.cache
-C:\Users\91960\Exercism\csharp\faceid-2\obj\Debug\net5.0\Faceid2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\91960\Exercism\csharp\faceid-2\obj\Debug\net5.0\Faceid2.AssemblyInfoInputs.cache
-C:\Users\91960\Exercism\csharp\faceid-2\obj\Debug\net5.0\Faceid2.AssemblyInfo.cs
-C:\Users\91960\Exercism\csharp\faceid-2\obj\Debug\net5.0\Faceid2.csproj.CoreCompileInputs.cache
