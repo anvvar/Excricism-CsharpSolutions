@@ -25,7 +25,17 @@ public static class ResistorColor
 
     public static string[] Colors()
     {
-        string[] colors = { "Black", "Brown", "Red", "Orange", "Yellow", "Green", "Blue", "Violet", "Grey", "White" };
+        string[] colors = {  
+            "black" ,
+            "brown" ,
+            "red" ,
+            "orange" ,
+            "yellow" ,
+            "green" ,
+            "blue" ,
+            "violet" ,
+            "grey" ,
+            "white" };
         return colors;
     }
     
